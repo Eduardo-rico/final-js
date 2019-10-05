@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.container2{
+    height: 100px;
+    width: 100px;
+    background-color: chocolate;
+    margin: 20px;
+    transition: 1s ease-in all;
+} 
+
+#row{
+    justify-content: center;
+
+
+}
+.card{
+    margin: 1vw;
+
+}
+
